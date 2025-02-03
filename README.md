@@ -32,4 +32,10 @@ The **4Sight system** combines **deep learning, sensor fusion, and real-time pro
 
 ---
 
-## 📁 Repository Structure
+## Skills Utilized
+
+*   Python Programming
+*   Machine Learning (Neural Networks)
+*   Digital Signal Processing (DSP)
+*   3D Spatial Audio
+*   Ultrasonic Sensor data utilization  
