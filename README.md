@@ -1,30 +1,35 @@
-# 4Sight Smart Assistive Glasses  
+# 4Sight – AI-Powered Assistive Smart Glasses  
+### **A Deep Learning-Driven Wearable for Enhanced Perception & Navigation**  
 
-## Overview  
-4Sight is an AI-powered assistive technology designed to aid visually impaired individuals. It combines **YOLOv8**, **Python**, **Arduino**, and **3D audio processing** to provide real-time environmental awareness and object detection.  
+## 📌 Overview  
+**4Sight** is an advanced **AI-powered assistive wearable** designed to enhance the **spatial awareness** and **mobility** of visually impaired individuals. The system integrates:  
 
-## Features  
-- **Real-time Object Detection**: Uses YOLOv8 for highly accurate detection and classification of objects.  
-- **3D Audio Feedback**: Converts detected object locations into spatial sound alerts for improved awareness.  
-- **Ultrasonic Sensor Integration**: Helps users gauge distances to obstacles.  
-- **ChatGPT API Integration**: Provides contextual voice assistance.  
-- **Smartphone App Support**: Allows remote monitoring and alerts.  
+- **Computer Vision (YOLOv8):** Real-time object detection & classification  
+- **3D Spatial Audio:** Directional sound feedback for enhanced perception  
+- **Ultrasonic Sensing:** Proximity detection for obstacle avoidance  
+- **AI-Powered Voice Assistance:** Real-time environment description using **ChatGPT API**  
+- **Edge AI Processing:** On-device computation for **low-latency response**  
 
-## Why 4Sight?  
-- **Enhanced Mobility & Safety**: Helps visually impaired individuals navigate their environment confidently.  
-- **Affordable & Scalable**: Designed with cost-effective hardware while maintaining high functionality.  
-- **Social Inclusion & Employment**: Enables more accessibility in daily life and work environments.  
+The **4Sight system** combines **deep learning, sensor fusion, and real-time processing** to create a truly **intelligent assistive device**.  
 
-## Technology Stack  
-- **AI Model**: YOLOv8 for object detection  
-- **Hardware**: Arduino, ultrasonic sensors, camera modules  
-- **Software**: Python, OpenAI ChatGPT API, 3D sound processing  
-- **Deployment**: Arduino microcontrollers with integrated sensors  
+---
 
-## Installation & Setup  
-### Prerequisites  
-- Python 3.x  
-- OpenCV  
-- PyTorch  
-- Arduino IDE  
-- YOLOv8 model  
+## 🚀 **Core Technologies & Features**
+### **🔍 Computer Vision & AI Processing**  
+✔ **YOLOv8 Model** for real-time object detection & classification  
+✔ **Custom-trained Neural Network** optimized for visually impaired assistance  
+✔ **On-Device Edge AI Processing** for real-time, low-latency analysis  
+
+### **🔊 Spatial Audio & Proximity Awareness**  
+✔ **Ultrasonic Sensors** for accurate obstacle detection  
+✔ **3D Audio Feedback** for **directional awareness** of objects  
+✔ **AI-Generated Voice Assistance** for contextual scene descriptions  
+
+### **🛠️ Hardware Integration & Software Stack**  
+✔ **Hardware:** Camera module, Ultrasonic sensors, Microphone, Custom PCB  
+✔ **Software:** Python, OpenCV, PyTorch, Arduino, OpenAI API  
+✔ **Mobile & Cloud Integration:** Real-time data sync & remote monitoring  
+
+---
+
+## 📁 Repository Structure
